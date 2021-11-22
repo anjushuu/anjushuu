@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anjushuu, and you can call me anju or rachel!
+- 👋 Hi there， you can call me rachel!
 - 👀 I’m interested in drawing, writing, psychology, and literature
 - 🌱 I’m currently learning more about Java, improving my Python skills, CSS, and data structures.
 - 💞️ I have a couple of past projects that I will slowly chip away at refining, and I'm
