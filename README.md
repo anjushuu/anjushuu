@@ -5,7 +5,7 @@
      very excited to start on brand new things!
 - 📫 You can reach me at my email: rt.racheltang@gmail.com, always available to respond to new messages :)
 
-- currently looking for :sparkles: Software Engineering Internships for 2022 :sparkles 
+- currently looking for :sparkles: Software Engineering Internships for 2022 :sparkles:
 <!---
 anjushuu/anjushuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
