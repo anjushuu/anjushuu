@@ -1,5 +1,6 @@
 # good day to you dear traveller 🗺️ !!
   
+>  *"My bounty is as boundless as the sea, My love as deep. The more I give to thee, The more I have, for both are infinite."* — Juliet
   
 - 👋 hi there, you can call me rachel, and welcome to my little planet 🎶
 - 👀 i’m interested in drawing, writing, psychology, and literature; i'm currently reading the hobbit for my eng class 🧝‍♀️
