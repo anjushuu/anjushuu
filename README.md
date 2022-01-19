@@ -9,6 +9,11 @@
 - 📓 i like to track some life bits on <a href="https://solid-tile-10b.notion.site/eb601fa5677c4ee0a180b88167afb5cc" target="_blank">my notion!</a> it's still a work in progress 🙇
 - currently looking for :sparkles: *Software Engineering Internships for 2022* :sparkles:  
 
+---
+![a gif!](https://pin.it/1XztnBr)  
+
+![have a nice day!](https://pin.it/3nSpV8W)
+
 
 # check out my socials for cool content 📱
 - [linkedin](https://www.linkedin.com/in/rachel-tang-112a20223/)
