@@ -12,6 +12,7 @@
 
 # check out my socials for cool content 📱
 - [linkedin](https://www.linkedin.com/in/rachel-tang-112a20223/)
+- [bird app](https://twitter.com/anjushuu)
 <!---
 anjushuu/anjushuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
