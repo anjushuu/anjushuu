@@ -12,7 +12,8 @@
 
 ---
  
- 📡 📡 📡
+ 📡 📡 📡  
+ 
 <img src="https://i.pinimg.com/originals/b1/98/f1/b198f162fed7b096f66f1446d39e4da5.jpg" alt="have a nice day!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/564x/d7/c2/f0/d7c2f0889ddb77b09e08a2fe6f119494.jpg" alt="be sure to rest!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/564x/3d/c8/f4/3dc8f46587959238bc39a801aed91114.jpg" alt="it's important to study too!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/originals/4e/33/28/4e3328e1a69a18cc07a0fa67a46dbce5.jpg" alt="reach for new heights!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 
@@ -24,8 +25,9 @@
   
 ---
   
-🌌 the skies are clear, be merry on your next journey throughout the galaxy ! 🌈
-<img src="https://i.pinimg.com/originals/00/e5/c2/00e5c21724723a723e96ba0d6546a592.gif" alt="titanic" width="590" height="240"> *let's dance until the world's end dancehall* ♛┈⛧┈┈•༶
+🌌 the skies are clear, be merry on your next journey throughout the galaxy ! 🌈  
+  
+<img src="https://i.pinimg.com/originals/00/e5/c2/00e5c21724723a723e96ba0d6546a592.gif" alt="titanic" width="590" height="240">   *let's dance until the world's end dancehall* ♛┈⛧┈┈•༶
 <!---
 anjushuu/anjushuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
