@@ -1,4 +1,4 @@
-# good day to you dear traveller 🗺️ !!
+# good day to you dear traveller 🗺️ !! this space station is still under construction 🚧
   
 >  *"My bounty is as boundless as the sea, My love as deep. The more I give to thee, The more I have, for both are infinite."* — Juliet Capulet
   
@@ -13,7 +13,7 @@
 ---
  
  
-<img src="https://i.pinimg.com/originals/b1/98/f1/b198f162fed7b096f66f1446d39e4da5.jpg" alt="have a nice day!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/564x/51/9f/d3/519fd3b3958b3e4b04cece866a897527.jpg" alt="reach for new heights!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/564x/d7/c2/f0/d7c2f0889ddb77b09e08a2fe6f119494.jpg" alt="be sure to rest!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/564x/3d/c8/f4/3dc8f46587959238bc39a801aed91114.jpg" alt="it's important to study too!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://i.pinimg.com/originals/b1/98/f1/b198f162fed7b096f66f1446d39e4da5.jpg" alt="have a nice day!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/564x/d7/c2/f0/d7c2f0889ddb77b09e08a2fe6f119494.jpg" alt="be sure to rest!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/564x/3d/c8/f4/3dc8f46587959238bc39a801aed91114.jpg" alt="it's important to study too!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://i.pinimg.com/originals/4e/33/28/4e3328e1a69a18cc07a0fa67a46dbce5.jpg" alt="reach for new heights!" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 
 
