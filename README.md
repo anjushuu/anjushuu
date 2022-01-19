@@ -12,7 +12,7 @@
 ---
 ![a gif!](https://pin.it/1XztnBr)  
 
-![have a nice day!](https://pin.it/3nSpV8W)
+![have a nice day!](images/𝑲𝒊𝒌𝒊.jfif)
 
 
 # check out my socials for cool content 📱
